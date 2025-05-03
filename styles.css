@@ -1,0 +1,21 @@
+.zodiak {
+    border: 1px solid blue;
+    height: 24px;
+    width: 24px;
+    background-color: white;
+    position: absolute;
+}
+#app {
+    width: 100vw;
+    background-color: black;
+    height: 100vh;
+}
+#moon {
+    background-color: silver;
+    z-index: 2;
+}
+
+#sun {
+    background-color: gold;
+    z-index: 1;
+}
